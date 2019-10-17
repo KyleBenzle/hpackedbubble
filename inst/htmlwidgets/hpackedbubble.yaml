@@ -4,5 +4,4 @@ dependencies:
     version: 7.1.2
     src: htmlwidgets/lib/
     script: 
-      - oldie.js
     stylesheet: 

@@ -1,5 +1,6 @@
 document.write("<script language=javascript src='https://code.highcharts.com.cn/highcharts/highcharts.js'></script>");
 document.write("<script language=javascript src='https://code.highcharts.com.cn/highcharts/highcharts-more.js'></script>");
+document.write("<script language=javascript src='https://code.highcharts.com.cn/highcharts/modules/oldie.js'></script>");
 HTMLWidgets.widget({
 
   name: 'hpackedbubble',
