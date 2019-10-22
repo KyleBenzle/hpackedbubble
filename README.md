@@ -131,6 +131,12 @@ shiny::shinyAppDir(".")
 
 Of course, it can be used in RMarkdown documents and Shiny applications.
 
+## Licence
+
+hpackedbubble has a dependency on Highcharts, a commercial JavaScript charting library. Highcharts offers both a commercial license as well as a free non-commercial license. Please review the licensing options and terms before using this software, as the hpackedbubble license neither provides nor implies a license for Highcharts.
+
+Highcharts (http://highcharts.com) is a Highsoft product which is not free for commercial and Governmental use.
+
 ------------
 
 <h4 align="center">
